@@ -17,6 +17,6 @@ The study utilizes a primary dataset collected through a cross-sectional survey 
 
 * **Ghana ITS Youth Perception Dataset**:
     * **Source**: Structured online survey administered to university students in southern, middle, and northern Ghana.
-    * **Data URL**: [Replace this with your GitHub file link, e.g., https://github.com/yourname/repo/blob/main/data.csv]
+    * **Data URL**: [(https://github.com/lilab2024/A-Survey-Study-on-ITS-Awareness-in-Ghana/blob/main/ITS%20Survey(1-494).xlsx)]
     * **Description**: This dataset contains 480 valid responses capturing socio-demographic information, digital technology usage patterns, and Likert-scale ratings for ITS awareness, perceived benefits, and adoption willingness.
     * **Key Variables**: Includes familiarity levels with infrastructure-based vs. consumer-facing ITS, perceived benefits (e.g., smart signals, enforcement cameras), and behavioral intention to use these technologies.
